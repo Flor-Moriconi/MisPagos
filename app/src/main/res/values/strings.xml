@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mis Pagos</string>
+    <string name="title_amount_input">Ingrese el monto a pagar</string>
+    <string name="title_amount_entered">Monto a pagar</string>
+    <string name="button_continue">Continuar</string>
+
+    <string name="payment_method">Método de pago</string>
+    <string name="card_issuers">Emisor de la tarjeta</string>
+    <string name="installments">Cuotas</string>
+    <string name="summary">Resumen</string>
+    <string name="payment_successful">Pago realizado</string>
+    <string name="finish_process">Finalizar</string>
+
+    <string name="title_choose_payment_method">Elegir método de pago</string>
+    <string name="title_choose_card_issuer">Elegir emisor de la tarjeta</string>
+    <string name="title_choose_installment">Elegir cantidad de cuotas</string>
+    <string name="title_summary">Seleccionaste las siguientes opciones para realizar tu pago</string>
+    <string name="title_payment_successful">El pago se ha realizado con éxito!</string>
+    <string name="complete_missing_amount">Ingrese el monto</string>
+    <string name="missing_payment_method">Seleccione un método de pago</string>
+    <string name="missing_card_issuer">Seleccione un emisor de tarjeta</string>
+    <string name="missing_installment">Seleccione una cuota</string>
+
+    <string name="alert_title_not_payment_method_found">Elegir otro metodo de pago</string>
+    <string name="alert_message_not_payment_method_found">No se encontraron bancos para este metodo de pago. Por favor, elegir otro</string>
+
+    <string name="alert_title_not_installment_found">Elegir otro emisor de tarjeta</string>
+    <string name="alert_message_not_installment_found">No se encontraron cuotas disponibles con este banco. Por favor, elegir otro</string>
+
+    <string name="btn_accept">Aceptar</string>
+    <string name="btn_pay">Pagar</string>
+</resources>
